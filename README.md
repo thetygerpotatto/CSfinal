@@ -1,1 +1,4 @@
-Este es nuestro projecto final de Introduccion a la ciencia de datos.
+## Agrupar juegos por sus caracateristicas
+
+- vamos a usar kmeans
+
