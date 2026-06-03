@@ -16,7 +16,7 @@ Proyecto final de Ciencias de Datos usando metodología CRISP-DM.
 | Dilan Mauricio Lemos       | 202359416 | [Colaborador] | [dilan.lemos@correounivalle.edu.co]|
 | Jaime Andrés Noreña        | 202359523  | [Colaborador]  | [jaime.norena@correounivalle.edu.co]|
 | Diego Fernando Lenis        | 202359540  | [Colaborador]  | [lenis.diego@correounivalled.edu.co]|
-| Gabriel Uraza García      | 2359594  | [Colaborador]  | [gabriel.uraza@correounivalled.edu.co]|
+| Juan José Restrepo Ávalo    | 202359517  | [Colaborador]  | [juan.jose.restrepo@correounivalle.edu.co]|
 
 
 
@@ -30,5 +30,5 @@ Proyecto final de Ciencias de Datos usando metodología CRISP-DM.
 **Entregables:**
 - `gamess.ipynb` — Notebook reproducible con todo el pipeline CRISP-DM
 - `datasets/` — Datasets originales (games.csv + tablas auxiliares)
-- Artículo en PDF (pendiente)
-- Presentación oral (pendiente)
+- Artículo en PDF
+- Presentación oral 
