@@ -16,7 +16,7 @@ Proyecto final de Ciencias de Datos usando metodología CRISP-DM.
 | Dilan Mauricio Lemos       | 202359416 | [Colaborador] | [dilan.lemos@correounivalle.edu.co]|
 | Jaime Andrés Noreña        | 202359523  | [Colaborador]  | [jaime.norena@correounivalle.edu.co]|
 | Diego Fernando Lenis        | 202359540  | [Colaborador]  | [lenis.diego@correounivalled.edu.co]|
-| Juan José Restrepo Ávalo    | 202359517  | [Colaborador]  | [juan.jose.restrepo@correounivalle.edu.co]|
+| Juan José Restrepo Ávalo    | 202359517  | [Colaborador]  | [juan.restrepo.avalo@correounivalle.edu.co]|
 
 
 
